@@ -9,4 +9,4 @@
 | Video | [YouTube (@Rossoctl)](https://www.youtube.com/@Rossoctl) |
 | Slack | [Join the community](https://ibm.biz/rossoctl-slack) |
 | Google Group | [rossoctl-contributors](https://groups.google.com/g/rossoctl-contributors) |
-| Community Calendar | [kagenti@kagenti.io](https://calendar.google.com/calendar/embed?src=kagenti%40kagenti.io&ctz=America%2FNew_York) |
+| Community Calendar | [https://calendar.google.com/calendar/embed?src=rosso%40rossoctl.dev](https://calendar.google.com/calendar/embed?src=rosso%40rossoctl.dev) |

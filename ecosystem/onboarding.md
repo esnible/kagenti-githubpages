@@ -10,7 +10,7 @@ Guide for new contributors joining the rossoctl ecosystem.
 
 ## 2. Join the Community Calendar
 
-- Add the [rossoctl community calendar](https://calendar.google.com/calendar/embed?src=kagenti%40kagenti.io&ctz=America%2FNew_York) for biweekly community meetings
+- Add the [Rossoctl community calendar](https://calendar.google.com/calendar/embed?src=rosso%40rossoctl.dev) for biweekly community meetings
 
 ## 3. Explore the Project
 
